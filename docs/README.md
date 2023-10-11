@@ -42,8 +42,10 @@ At the command prompt, type `nano`.
 
 这是一个链接 [Markdown 语法](https://markdown.com.cn)。
 
+这是一个链接 [Markdown 语法](https://markdown.com.cn)。
+
 # Hello VuePress2
 
- <source media="(max-width: 799px)" srcset="elva-480w-close-portrait.jpg" />
+ <!-- <source media="(max-width: 799px)" srcset="elva-480w-close-portrait.jpg" />
   <source media="(min-width: 800px)" srcset="elva-800w.jpg" />
-  <img src="./assets/a1.png" alt="Chris standing up holding his daughter Elva" />
+  <img src="./assets/a1.png" alt="Chris standing up holding his daughter Elva" /> -->
